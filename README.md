@@ -3,7 +3,13 @@
 ## Variables and Constants
 
 - Variables in Swift are declared using the  `var` keyword. They can be assigned a value when declared and can be changed later.
+```swift
+var variableName = value
+```
 - Constants in Swift are declared using the  `let` keyword. They must be assigned a value at the time of declaration and their value canot be changed.
+```swift
+let constantName = value
+```
 
 ### Data types:
 - **Int**: Used to store whole numbers.
